@@ -3,6 +3,7 @@
   "item.myfirstmod.raw_sapphire": "Raw Sapphire",
   "item.myfirstmod.metal_detector": "Metal Detector",
   "item.myfirstmod.strawberry": "Strawberry",
+  "item.myfirstmod.pine_cone": "Pine Cone",
 
 
 
@@ -14,6 +15,9 @@
   "block.myfirstmod.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
   "block.myfirstmod.nether_sapphire_ore": "Nether Sapphire Ore",
   "block.myfirstmod.end_stone_sapphire_ore": "Endstone Sapphire Ore",
+
+
+  "tooltip.myfirstmod.metal_detector.tooltip":"Finds valuables underground!",
 
   "creativetab.roi_tab": "Sapphire Mod Tab"
 }
