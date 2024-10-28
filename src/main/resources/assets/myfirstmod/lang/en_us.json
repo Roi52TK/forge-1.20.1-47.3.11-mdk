@@ -16,6 +16,16 @@
   "block.myfirstmod.nether_sapphire_ore": "Nether Sapphire Ore",
   "block.myfirstmod.end_stone_sapphire_ore": "Endstone Sapphire Ore",
 
+  "block.myfirstmod.sapphire_stairs": "Sapphire Stairs",
+  "block.myfirstmod.sapphire_slab": "Sapphire Slab",
+  "block.myfirstmod.sapphire_button": "Sapphire Button",
+  "block.myfirstmod.sapphire_pressure_plate": "Sapphire Pressure Plate",
+  "block.myfirstmod.sapphire_fence": "Sapphire Fence",
+  "block.myfirstmod.sapphire_fence_gate": "Sapphire Fence Gate",
+  "block.myfirstmod.sapphire_wall": "Sapphire Wall",
+  "block.myfirstmod.sapphire_door": "Sapphire Door",
+  "block.myfirstmod.sapphire_trapdoor": "Sapphire Trapdoor",
+
 
   "tooltip.myfirstmod.metal_detector.tooltip":"Finds valuables underground!",
 
